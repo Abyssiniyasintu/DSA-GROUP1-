@@ -1,2 +1,5 @@
 # dsa-1
-edited by abdi
+## Contributors
+
+- [abdihirpa02-hue](https://github.com/abdi) – Initial work & edits
+- *Abyssiniya sintu*
